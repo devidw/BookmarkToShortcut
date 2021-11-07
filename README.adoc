@@ -30,5 +30,5 @@ converter.convert()
 * tested for exports from Chromium browsers (Opera, Chrome, Edge)
 * supported shortcut formats
 ** `.url` (Windows)
-** `.webloc` (Mac OSX)
+** `.webloc` (macOS)
 ** `.desktop` (Linux)
